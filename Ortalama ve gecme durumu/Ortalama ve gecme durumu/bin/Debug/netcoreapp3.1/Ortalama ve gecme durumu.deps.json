@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ortalama ve gecme durumu/1.0.0": {
+        "runtime": {
+          "Ortalama ve gecme durumu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ortalama ve gecme durumu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

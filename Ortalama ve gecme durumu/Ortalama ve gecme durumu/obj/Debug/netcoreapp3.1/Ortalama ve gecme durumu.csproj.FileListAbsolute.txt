@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\bin\Debug\netcoreapp3.1\Ortalama ve gecme durumu.exe
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\bin\Debug\netcoreapp3.1\Ortalama ve gecme durumu.deps.json
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\bin\Debug\netcoreapp3.1\Ortalama ve gecme durumu.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\bin\Debug\netcoreapp3.1\Ortalama ve gecme durumu.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\bin\Debug\netcoreapp3.1\Ortalama ve gecme durumu.dll
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\bin\Debug\netcoreapp3.1\Ortalama ve gecme durumu.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\obj\Debug\netcoreapp3.1\Ortalama ve gecme durumu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\obj\Debug\netcoreapp3.1\Ortalama ve gecme durumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\obj\Debug\netcoreapp3.1\Ortalama ve gecme durumu.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\obj\Debug\netcoreapp3.1\Ortalama ve gecme durumu.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\obj\Debug\netcoreapp3.1\Ortalama ve gecme durumu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\obj\Debug\netcoreapp3.1\Ortalama ve gecme durumu.dll
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\obj\Debug\netcoreapp3.1\Ortalama ve gecme durumu.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Ortalama ve gecme durumu\Ortalama ve gecme durumu\obj\Debug\netcoreapp3.1\Ortalama ve gecme durumu.genruntimeconfig.cache
