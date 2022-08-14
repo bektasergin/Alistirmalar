@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\bin\Debug\netcoreapp3.1\Alan ve cevre hesaplama.exe
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\bin\Debug\netcoreapp3.1\Alan ve cevre hesaplama.deps.json
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\bin\Debug\netcoreapp3.1\Alan ve cevre hesaplama.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\bin\Debug\netcoreapp3.1\Alan ve cevre hesaplama.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\bin\Debug\netcoreapp3.1\Alan ve cevre hesaplama.dll
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\bin\Debug\netcoreapp3.1\Alan ve cevre hesaplama.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\obj\Debug\netcoreapp3.1\Alan ve cevre hesaplama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\obj\Debug\netcoreapp3.1\Alan ve cevre hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\obj\Debug\netcoreapp3.1\Alan ve cevre hesaplama.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\obj\Debug\netcoreapp3.1\Alan ve cevre hesaplama.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\obj\Debug\netcoreapp3.1\Alan ve cevre hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\obj\Debug\netcoreapp3.1\Alan ve cevre hesaplama.dll
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\obj\Debug\netcoreapp3.1\Alan ve cevre hesaplama.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Alan ve cevre hesaplama\Alan ve cevre hesaplama\obj\Debug\netcoreapp3.1\Alan ve cevre hesaplama.genruntimeconfig.cache
