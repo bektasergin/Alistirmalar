@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\bin\Debug\netcoreapp3.1\Cift sayiyi bulma.exe
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\bin\Debug\netcoreapp3.1\Cift sayiyi bulma.deps.json
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\bin\Debug\netcoreapp3.1\Cift sayiyi bulma.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\bin\Debug\netcoreapp3.1\Cift sayiyi bulma.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\bin\Debug\netcoreapp3.1\Cift sayiyi bulma.dll
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\bin\Debug\netcoreapp3.1\Cift sayiyi bulma.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\obj\Debug\netcoreapp3.1\Cift sayiyi bulma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\obj\Debug\netcoreapp3.1\Cift sayiyi bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\obj\Debug\netcoreapp3.1\Cift sayiyi bulma.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\obj\Debug\netcoreapp3.1\Cift sayiyi bulma.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\obj\Debug\netcoreapp3.1\Cift sayiyi bulma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\obj\Debug\netcoreapp3.1\Cift sayiyi bulma.dll
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\obj\Debug\netcoreapp3.1\Cift sayiyi bulma.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Cift sayiyi bulma\Cift sayiyi bulma\obj\Debug\netcoreapp3.1\Cift sayiyi bulma.genruntimeconfig.cache
