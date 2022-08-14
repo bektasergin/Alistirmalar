@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\bin\Debug\netcoreapp3.1\Yuzde degerini hesaplama.exe
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\bin\Debug\netcoreapp3.1\Yuzde degerini hesaplama.deps.json
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\bin\Debug\netcoreapp3.1\Yuzde degerini hesaplama.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\bin\Debug\netcoreapp3.1\Yuzde degerini hesaplama.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\bin\Debug\netcoreapp3.1\Yuzde degerini hesaplama.dll
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\bin\Debug\netcoreapp3.1\Yuzde degerini hesaplama.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\obj\Debug\netcoreapp3.1\Yuzde degerini hesaplama.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\obj\Debug\netcoreapp3.1\Yuzde degerini hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\obj\Debug\netcoreapp3.1\Yuzde degerini hesaplama.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\obj\Debug\netcoreapp3.1\Yuzde degerini hesaplama.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\obj\Debug\netcoreapp3.1\Yuzde degerini hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\obj\Debug\netcoreapp3.1\Yuzde degerini hesaplama.dll
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\obj\Debug\netcoreapp3.1\Yuzde degerini hesaplama.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Yuzde degerini hesaplama\Yuzde degerini hesaplama\obj\Debug\netcoreapp3.1\Yuzde degerini hesaplama.genruntimeconfig.cache
