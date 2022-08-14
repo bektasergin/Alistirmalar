@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\bin\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.exe
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\bin\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.deps.json
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\bin\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\bin\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\bin\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.dll
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\bin\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.pdb
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\obj\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\obj\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\obj\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\obj\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\obj\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\obj\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.dll
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\obj\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.pdb
+C:\Users\Lenovo\Desktop\Projelerim\50 den kücük olanlarin adetini bulma\50 den kücük olanlarin adetini bulma\obj\Debug\netcoreapp3.1\50 den kücük olanlarin adetini bulma.genruntimeconfig.cache
