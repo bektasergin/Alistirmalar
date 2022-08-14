@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\bin\Debug\netcoreapp3.1\Buyuk olani bulma.exe
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\bin\Debug\netcoreapp3.1\Buyuk olani bulma.deps.json
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\bin\Debug\netcoreapp3.1\Buyuk olani bulma.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\bin\Debug\netcoreapp3.1\Buyuk olani bulma.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\bin\Debug\netcoreapp3.1\Buyuk olani bulma.dll
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\bin\Debug\netcoreapp3.1\Buyuk olani bulma.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\obj\Debug\netcoreapp3.1\Buyuk olani bulma.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\obj\Debug\netcoreapp3.1\Buyuk olani bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\obj\Debug\netcoreapp3.1\Buyuk olani bulma.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\obj\Debug\netcoreapp3.1\Buyuk olani bulma.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\obj\Debug\netcoreapp3.1\Buyuk olani bulma.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\obj\Debug\netcoreapp3.1\Buyuk olani bulma.dll
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\obj\Debug\netcoreapp3.1\Buyuk olani bulma.pdb
+C:\Users\Lenovo\Desktop\Projelerim\Buyuk olani bulma\Buyuk olani bulma\obj\Debug\netcoreapp3.1\Buyuk olani bulma.genruntimeconfig.cache
